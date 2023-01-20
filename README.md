@@ -7,6 +7,8 @@ In the past two years I have developed many web apps and learn more things about
  * HTML, 
  * CSS, 
  * JAVASCRIPT,
+ * OPP,
+ * Node.JS
  * SQL,
  * nosql,
  * REACT,
